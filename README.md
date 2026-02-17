@@ -16,10 +16,5 @@ With over a decade of experience in the JavaScript ecosystem, I bridge the gap b
 
 ---
 
-### 📈 GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=dimo89&show_icons=true&theme=tokyonight" alt="Stats" />
-</p>
-
 ### 📫 Let's Connect
-[LinkedIn]([your-link](https://www.linkedin.com/in/dmitrikarasjov/)) | [Personal Website](https://www.dmitrikarasjov.com/) | [Email](mailto:dmitri.karasjov@gmail.com)
+[LinkedIn]((https://www.linkedin.com/in/dmitrikarasjov/) | [Personal Website](https://www.dmitrikarasjov.com/) | [Email](mailto:dmitri.karasjov@gmail.com)
