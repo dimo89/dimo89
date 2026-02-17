@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Dmitri Karasjov 👋
+**Senior Frontend Engineer**
 
-<!--
-**dimo89/dimo89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+With over a decade of experience in the JavaScript ecosystem, I bridge the gap between complex engineering and intuitive user experience. I don't just write code; I build products that scale and lead teams that thrive.
 
-Here are some ideas to get you started:
+### 🏗 What I Do
+- **Architecture:** Crafting performant, SEO-friendly applications with **React** and **Next.js**.
+- **Product Strategy:** Collaborating with stakeholders to turn vision into technical requirements.
+- **Leadership:** Mentoring devs and establishing engineering best practices.
+- **DX & Tooling:** Optimizing CI/CD pipelines and internal component libraries.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧪 Technical Expertise
+- **Core:** TypeScript, React (Hooks/Context/Server Components), Node.js.
+- **Styling & UI:** TailwindCSS, Framer Motion, Design Systems.
+- **Data:** GraphQL, REST, State Management.
+
+---
+
+### 📈 GitHub Stats
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=dimo89&show_icons=true&theme=tokyonight" alt="Stats" />
+</p>
+
+### 📫 Let's Connect
+[LinkedIn]([your-link](https://www.linkedin.com/in/dmitrikarasjov/)) | [Personal Website](https://www.dmitrikarasjov.com/) | [Email](mailto:dmitri.karasjov@gmail.com)
