@@ -17,4 +17,4 @@ With over a decade of experience in the JavaScript ecosystem, I bridge the gap b
 ---
 
 ### 📫 Let's Connect
-[LinkedIn]((https://www.linkedin.com/in/dmitrikarasjov/) | [Personal Website](https://www.dmitrikarasjov.com/) | [Email](mailto:dmitri.karasjov@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/dmitrikarasjov/) | [Personal Website](https://www.dmitrikarasjov.com/) | [Email](mailto:dmitri.karasjov@gmail.com)
